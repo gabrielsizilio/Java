@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
-        <exec.mainClass>br.edu.ifnmg.hello.Hello</exec.mainClass>
+        <exec.mainClass>br.edu.ifnmg.hello.Program</exec.mainClass>
     </properties>
 </project>
